@@ -1,0 +1,5 @@
+1) [Udacity Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+2) [Interactive git&github practice](https://try.github.io/levels/1/challenges/1)
+3) [Git за 30 хвилин](https://codeguida.com/post/453)
+4) [Git tips](http://sixrevisions.com/web-development/git-tips/)
+5) [Learn git branching](http://learngitbranching.js.org)
