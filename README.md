@@ -7,7 +7,7 @@ Offline stage progress:
 - [ ] Linux, Command Line, HTTP Tools
 - [x] Git for Team Collaboration
 
-##Git collaboration
+## Git collaboration
 Screenshots for the [part 1](task_git_collaboration/part1-version_control.png) and [part 2](task_git_collaboration/part2-github&collaboration.png).
 
 What i learned about:
